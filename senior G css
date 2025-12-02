@@ -1,0 +1,20 @@
+.titre {display: flex;
+    flex-direction: column;
+align-items: center;}
+
+.seniorG{
+    background-color: rgb(21, 40, 145);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    color: white;
+}
+.U18{
+    background-color:  rgb(21, 40, 145);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    color: white;
+}
