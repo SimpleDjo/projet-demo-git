@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="menu.css">
+</head>
+<body>
+    <div class="team">
+        <h2>Les équipes</h2>
+        <p>> Decouvrez toutes nos équipes filles et garçons</p>
+    </div>
+    <div class="resultats">
+        <h2>Resultats et classements</h2>
+        <p>> Les resultats des week-ends précédents</p>
+    </div>
+    <div class="photos">
+        <h2>Photos et vidéos</h2>
+        <p>> Le meilleur des matchs</p>
+    </div>
+    <div class="rejoindre">
+        <h2>Rejoindre une équipe</h2>
+        <p>> Joueur ou bénévole, c'est par ici</p>
+    </div>
+</body>
+</html>
