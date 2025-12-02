@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="seniorg.css">
+</head>
+<body>
+    <h2 class="titre">Nos équipes masculines</h2>
+    <div class="seniorG">
+        <p>Sénior garçons</p>
+        <p>Entrainement les ... et les ...</p>
+    </div>
+<Div class="U18">
+    <p>Moins de 18 ans</p>
+    <p>Entrainement les ... et les ...</p>
+</Div>
+<div class="U15">
+    <p>Moins de 15 ans</p>
+    <p>
+        Entrainement les ... et les ...
+    </p>
+</div>
+<div class="U13">
+    <p>Moins de 13 ans</p>
+    <p>Entrainement les ... et les ...</p>
+</div>
+</body>
+</html>
